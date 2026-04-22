@@ -1,0 +1,12 @@
+[
+  {"id": "INV-001", "name": "Corrugated Shipping Box (Medium)", "sku": "BOX-MD-200", "category": "Packaging", "quantity_on_hand": 1200, "reorder_point": 500, "unit_cost": 1.25, "supplier": "PackRight Co.", "notes": ""},
+  {"id": "INV-002", "name": "Bubble Wrap Roll (100m)", "sku": "BW-100M", "category": "Packaging", "quantity_on_hand": 45, "reorder_point": 100, "unit_cost": 18.50, "supplier": "PackRight Co.", "notes": "Lead time 2 weeks"},
+  {"id": "INV-003", "name": "Pallet Jack — Manual", "sku": "PJ-MAN-01", "category": "Equipment", "quantity_on_hand": 8, "reorder_point": 3, "unit_cost": 320.00, "supplier": "WarehouseGear Ltd.", "notes": ""},
+  {"id": "INV-004", "name": "Stretch Wrap Film (500mm)", "sku": "SW-500", "category": "Packaging", "quantity_on_hand": 0, "reorder_point": 60, "unit_cost": 12.75, "supplier": "PackRight Co.", "notes": "Backordered — ETA April 10"},
+  {"id": "INV-005", "name": "Thermal Label Roll (500 labels)", "sku": "LBL-THRM-500", "category": "Labels", "quantity_on_hand": 320, "reorder_point": 200, "unit_cost": 8.99, "supplier": "LabelPro Inc.", "notes": ""},
+  {"id": "INV-006", "name": "Forklift Battery (48V)", "sku": "FK-BAT-48", "category": "Equipment", "quantity_on_hand": 2, "reorder_point": 4, "unit_cost": 2800.00, "supplier": "PowerCell Systems", "notes": "Check warranty status before reorder"},
+  {"id": "INV-007", "name": "Safety Vest (Hi-Vis, L)", "sku": "SV-HV-L", "category": "Safety", "quantity_on_hand": 0, "reorder_point": 25, "unit_cost": 14.50, "supplier": "SafetyFirst Supply", "notes": ""},
+  {"id": "INV-008", "name": "Barcode Scanner (Wireless)", "sku": "BCS-WL-02", "category": "Equipment", "quantity_on_hand": 15, "reorder_point": 5, "unit_cost": 189.00, "supplier": "ScanTech", "notes": ""},
+  {"id": "INV-009", "name": "Packing Tape Gun", "sku": "PTG-STD", "category": "Packaging", "quantity_on_hand": 22, "reorder_point": 20, "unit_cost": 9.75, "supplier": "PackRight Co.", "notes": ""},
+  {"id": "INV-010", "name": "Steel Shelving Unit (5-Tier)", "sku": "SHL-5T-STL", "category": "Storage", "quantity_on_hand": 6, "reorder_point": 2, "unit_cost": 175.00, "supplier": "WarehouseGear Ltd.", "notes": "Assembly required — 45 min per unit"}
+]
